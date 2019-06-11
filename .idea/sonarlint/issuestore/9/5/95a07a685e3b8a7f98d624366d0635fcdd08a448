@@ -1,0 +1,50 @@
+
+psquid:S00117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÇÚx8¢¢àá³-
+jsquid:CommentedOutCodeLineğ"<This block of commented-out lines of code should be removed.(Õ¾ÀÄ8ûˆÿá³-
+ƒsquid:S1149Q"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(—ªï€8òŸñß³-
+‰squid:S1149ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µ„§øüÿÿÿÿ8ûˆÿá³-
+ˆsquid:S1149?"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ˆÓŠ¾üÿÿÿÿ8òŸñß³-
+‰squid:S1149ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(µ„§øüÿÿÿÿ8ûˆÿá³-
+Tsquid:S2696G"6Make the enclosing method "static" or remove this set.(ÑŞè8Ñìà³-
+Gsquid:S1148¹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ëşòä³-
+vsquid:S30087"XRename this field "NEURON_RADIUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÃñ¢8¶šÛ³-
+Dsquid:S1659‰" Declare "sy" on a separate line.(éÎÃòûÿÿÿÿ8¢¢àá³-
+Gsquid:S16590"$Declare "joint3" on a separate line.(³«Äıÿÿÿÿÿ8òŸñß³-
+Gsquid:S1659*")Declare "previousBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+‰squid:S1149â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(˜ıÔÂıÿÿÿÿ8üæ¾å³-
+Jsquid:S1659<"'Declare "networkNo" on a separate line.(ÜÄÈæÿÿÿÿÿ8òŸñß³-
+usquid:S30088"WRename this field "VBOX_SPACING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¤ùÍ8¶šÛ³-
+Dsquid:S1659‰" Declare "ex" on a separate line.(éÎÃòûÿÿÿÿ8¢¢àá³-
+Ysquid:S3655Ê"5Call "result.isPresent()" before accessing the value.(º£Ş¤ùÿÿÿÿ8¢¢àá³-
+Nsquid:S1659-"+Declare "bluetoothText" on a separate line.(Ì§­†üÿÿÿÿ8òŸñß³-
+msquid:HiddenFieldCheckÌ">Rename "chromosome" which hides the field declared at line 64.(€€Åúÿÿÿÿ8·Èïá³-
+Gsquid:S1659*")Declare "stopTestBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+‰squid:S1149®"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(´˜¹šúÿÿÿÿ8ë·€â³-
+ksquid:S00112à"FDefine and throw a dedicated exception instead of using a generic one.(ŞÉ°Ëıÿÿÿÿ8¢¢àá³-
+Csquid:S1659*"%Declare "loadBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+‚squid:S1192…"cDefine a constant instead of duplicating this literal "You don't have any generation yet!" 3 times.(ßéÄâ8¢¢àá³-
+Nsquid:S14445"0Make this "public static mainWindow" field final(Æ”¬Ê8«Åà³-
+Fsquid:S1659*"(Declare "fitnessBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+‰squid:S1149©"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ŠŸ³€üÿÿÿÿ8¢¢àá³-
+Gsquid:S16590"$Declare "joint2" on a separate line.(³«Äıÿÿÿÿÿ8òŸñß³-
+ª%squid:RedundantThrowsDeclarationCheckà"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ŞÉ°Ëıÿÿÿÿ8ëòá³-
+Gsquid:S16590"$Declare "joint4" on a separate line.(³«Äıÿÿÿÿÿ8òŸñß³-
+‹"squid:ClassVariableVisibilityCheck5"VMake mainWindow a static final constant or non-public and provide accessors if needed.(Æ”¬Ê8«Åà³-
+Fsquid:S1604°"(Make this anonymous inner class a lambda(ô§ê8å×ïä³-
+Csquid:S1659*"%Declare "nextBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+‰squid:S1149í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".( åé†ùÿÿÿÿ8ûˆÿá³-
+Csquid:S1659*"%Declare "tuneBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+Dsquid:S1659‰" Declare "ey" on a separate line.(éÎÃòûÿÿÿÿ8¢¢àá³-
+Qsquid:S1659-".Declare "generationNoText" on a separate line.(Ì§­†üÿÿÿÿ8òŸñß³-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ§¹£
+‰squid:S1149­"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëÿÏıÿÿÿÿ8ï¥úá³-
+„squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ë¤ü£8¢¢àá³-
+Ksquid:S1659-"(Declare "loadedText" on a separate line.(Ì§­†üÿÿÿÿ8òŸñß³-
+psquid:S3776c"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(½Ç¶8¢¢àá³-
+Ksquid:S1068B"-Remove this unused "isTesting" private field.(Ñ§íª8¾Êöá³-
+tsquid:S30089"WRename this field "HBOX_SPACING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğª8òŸñß³-
+ª%squid:RedundantThrowsDeclarationCheck¶"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ò¡îÌøÿÿÿÿ8¢¢àá³-
+Csquid:S1659*"%Declare "testBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+esquid:S2142¸"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ëşòä³-
+Csquid:S1659*"%Declare "saveBtn" on a separate line.(¨ù¦Œ8òŸñß³-
+esquid:HiddenFieldCheck‘";Rename "weights" which hides the field declared at line 62.(Ššù­8¢¢àá³-

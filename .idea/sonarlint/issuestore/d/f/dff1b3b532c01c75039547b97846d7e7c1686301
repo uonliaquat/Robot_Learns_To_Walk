@@ -1,0 +1,16 @@
+
+Gsquid:S1148£"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8àüÀÅ³-
+vsquid:S3008"ZRename this field "CONGRATULATIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûûŒÑşÿÿÿÿ
+osquid:S3008"XRename this field "NETWORK_SAVED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›‚î
+}squid:S3008"aRename this field "COULD_NOT_SAVE_NETWORK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÑœ¾şÿÿÿÿ
+Wsquid:S1197‚"8Move the array designator from the variable to the type.(’ÂºĞ8àüÀÅ³-
+‡squid:S3008"dRename this field "COULD_NOT_SAVE_GENERATION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰á›Éıÿÿÿÿ8àüÀÅ³-
+psquid:S37766"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(˜£úÅ8âÏÍÅ³-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ê¾ÕÃ8àüÀÅ³-
+fsquid:S3008"PRename this field "SORRY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óü˜
+Wsquid:S1197Š"8Move the array designator from the variable to the type.(Ş¾©8àüÀÅ³-
+wsquid:S3008"[Rename this field "GENERATION_SAVED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õîâÏûÿÿÿÿ
+lsquid:S4042v"IUse "java.nio.Files#delete" here for better messages on error conditions.(áùˆ«ûÿÿÿÿ8àüÀÅ³-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö·—Ù
+hsquid:S2095|"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(¸™á…8‚ŸÒÅ³-
+Jsquid:S1168½"+Return an empty collection instead of null.(¥¹ï8ÔåĞà³-

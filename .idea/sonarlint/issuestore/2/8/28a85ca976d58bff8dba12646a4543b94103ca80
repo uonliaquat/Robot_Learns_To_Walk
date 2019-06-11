@@ -1,0 +1,7 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èü‚Þýÿÿÿÿ
+ˆsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‘âøÏùÿÿÿÿ8ß¤Ã¾³-
+‚squid:S1149""eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(òò«|8Ä¹Û¾³-
+ˆsquid:S1149$"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¥ÊàÙþÿÿÿÿ8ü¾â¾³-
+ˆsquid:S11491"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‚Ë¬¹þÿÿÿÿ8§Û×¾³-
+Lsquid:S1172".Remove this unused method parameter "useless".(†µæž8ñ¾…á³-

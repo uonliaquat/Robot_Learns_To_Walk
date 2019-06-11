@@ -1,0 +1,26 @@
+
+†"squid:ClassVariableVisibilityCheck"SMake OL_SIZE a static final constant or non-public and provide accessors if needed.(ëÑüºıÿÿÿÿ
+|squid:S3008
+"YRename this field "CROSSOVER_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ç‰ÿÿÿÿÿ8ƒ€Íİ³-
+’"squid:ClassVariableVisibilityCheck	"XMake FITNESS_RATE a static final constant or non-public and provide accessors if needed.(Ù¼°¤üÿÿÿÿ8ƒ€Íİ³-
+”"squid:ClassVariableVisibilityCheck
+"ZMake CROSSOVER_RATE a static final constant or non-public and provide accessors if needed.(¼ç‰ÿÿÿÿÿ8ƒ€Íİ³-
+"squid:ClassVariableVisibilityCheck"YMake MUTATION_RATE a static final constant or non-public and provide accessors if needed.(Ù³ºÖ8ƒ€Íİ³-
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(“³±ûÿÿÿÿ
+nsquid:S3008"RRename this field "HL_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÅ™ãüÿÿÿÿ
+Usquid:S1444	"2Make this "public static FITNESS_RATE" field final(Ù¼°¤üÿÿÿÿ8ƒ€Íİ³-
+Isquid:S1444"-Make this "public static IL_SIZE" field final(ä×é«ûÿÿÿÿ
+nsquid:S3008"RRename this field "IL_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä×é«ûÿÿÿÿ
+Wsquid:S1444
+"4Make this "public static CROSSOVER_RATE" field final(¼ç‰ÿÿÿÿÿ8ƒ€Íİ³-
+Isquid:S1444"-Make this "public static HL_SIZE" field final(íÅ™ãüÿÿÿÿ
+zsquid:S3008	"WRename this field "FITNESS_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¼°¤üÿÿÿÿ8ƒ€Íİ³-
+†"squid:ClassVariableVisibilityCheck"SMake HL_SIZE a static final constant or non-public and provide accessors if needed.(íÅ™ãüÿÿÿÿ
+Qsquid:S1444"3Make this "public static MUTATION_RATE" field final(Ù³ºÖ8ƒ€Íİ³-
+vsquid:S3008"XRename this field "MUTATION_RATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù³ºÖ8ƒ€Íİ³-
+Isquid:S1444"-Make this "public static OL_SIZE" field final(ëÑüºıÿÿÿÿ
+}squid:S3008"ZRename this field "POPULATION_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÌ×öûÿÿÿÿ8ƒ€Íİ³-
+†"squid:ClassVariableVisibilityCheck"SMake IL_SIZE a static final constant or non-public and provide accessors if needed.(ä×é«ûÿÿÿÿ
+nsquid:S3008"RRename this field "OL_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÑüºıÿÿÿÿ
+Xsquid:S1444"5Make this "public static POPULATION_SIZE" field final(õÌ×öûÿÿÿÿ8´£Îİ³-
+•"squid:ClassVariableVisibilityCheck"[Make POPULATION_SIZE a static final constant or non-public and provide accessors if needed.(õÌ×öûÿÿÿÿ8´£Îİ³-

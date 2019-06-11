@@ -1,0 +1,17 @@
+
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÉÙ˜8å°‹à³-
+vsquid:S00116"WRename this field "NETWORK_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àû²´8å°‹à³-
+:squid:S1643S"Use a StringBuilder instead.(íÑ™÷8ÈÄ‘á³-
+psquid:S00117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òª‰Æ8ÈÄ‘á³-
+Fsquid:S1148:"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‘œ‘á³-
+hsquid:S2095x"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ß¨ÿ’8å°‹à³-
+;squid:S1643¼"Use a StringBuilder instead.(é³¾Ì8Å‚á³-
+ysquid:S00116 "ZRename this field "GENERATION_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÂØø8å°‹à³-
+Vsquid:S1481\"3Remove this unused "neuralNetworks" local variable.(ñ‚¬œÿÿÿÿÿ8‘å¡á³-
+ƒsquid:S1149l"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ìö8å°‹à³-
+Fsquid:S1604%"(Make this anonymous inner class a lambda(‘‘¦”8¡Ú à³-
+ƒsquid:S1149m"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(’Å¸8¶¼ñà³-
+Lsquid:S1068".Remove this unused "population" private field.(åÇŒÒ8…Ãšá³-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ§¹£
+psquid:S2095u"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ïÉ¥Òÿÿÿÿÿ8å°‹à³-
+Gsquid:S1148–"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8å°‹à³-
